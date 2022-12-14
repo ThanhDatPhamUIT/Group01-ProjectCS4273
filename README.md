@@ -19,4 +19,5 @@ Tech stacks:
 - ...
 
 Demo online: [link to website - update later]
-##_**How to run our project**_
+<br />
+How to run our project
