@@ -1,4 +1,4 @@
-# Project: Air ticket management - Group 1 Implementation
+# Project: Flight Booking - Group 1 Implementation
 
 _**Participants:**_
 <br />
