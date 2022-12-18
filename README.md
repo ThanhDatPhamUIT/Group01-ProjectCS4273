@@ -26,4 +26,4 @@ Participants | Họ và Tên | MSSV | Nhiêm Vụ |
 2. Using Visual Studio Code to open our code.
 3. Open terminal and write this commmand: <pre> pip install -U -r requirements.txt </pre>
 4. Write next command: <pre> python manage.py runserver </pre>
-5. Crt + Click on the link that your terminal returns.
+5. Ctrl + Click on the link that your terminal returns.
