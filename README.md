@@ -1,15 +1,13 @@
 # Project: Flight Booking - Group 1 Implementation
 
-_**Participants:**_
-<br />
-**1. Leader: Phạm Thành Đạt - 20521175**
-<br />
-**2. Member: Thiều Huy Hoàng - 20521350**
-<br />
-**3. Member: Nguyễn Quang Vy - 20522181**
-<br />
-**4. Member: Nguyễn Nhất Thưởng - 20522000**
-
+Participants | Họ và Tên | MSSV | Nhiêm Vụ |
+--- | --- | --- | --- |
+**Leader** | **Phạm Thành Đạt** | **20521175**| Chịu trách nhiệm làm **báo cáo:**<br />+ Chọn **đề tài, phân tích và xác định yêu cầu** của đề tài<br />+ Thiết kế **Sequence, Usecase, Database**<br />+ Viết **báo cáo**
+**Member** | **Thiều Huy Hoàng** | **20521350** | Chịu trách nhiệm thiết kê **UI Prototype:**<br />+ Thiết kế UX/UI trên **FIGMA** 
+**Member** | **Nguyễn Quang Vy**  | **20522181** | Chịu trách nhiệm về:<br />+ Code phần **Backend**<br />+ Thiết kế **Database**
+**Member** | **Nguyễn Nhất Thưởng** | **20522000** | Chịu trách nhiệm về:<br />+ Code phần **Frontend** | 
+ 
+ 
 > Task management table: [here](https://trello.com/invite/b/s2a7YEWe/25199de52bd3549ff58b4a2d38c85dd7/nhập-mon-cnpm)
 
 
@@ -21,7 +19,7 @@ _**Participants:**_
 
 - Front-end: DJANGO
 - Back-end: SQLITE
-- Database: HTML,CSS, JS
+- Database: HTML, CSS, JS
 
 >How to run our project?
 1. Download our code.
