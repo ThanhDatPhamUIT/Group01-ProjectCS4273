@@ -19,10 +19,9 @@ _**Participants:**_
 
 >Tech stacks:
 
-- Front-end: [...]
-- Back-end: [...]
-- Database: [...]
-- ...
+- Front-end: DJANGO
+- Back-end: SQLITE
+- Database: HTML,CSS, JS
 
 >How to run our project?
 1. Download our code.
