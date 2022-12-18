@@ -20,9 +20,9 @@ Participants | Họ và Tên | MSSV | Nhiêm Vụ |
 * Front-end: 
   - HTML, CSS, JS
 * Back-end: 
-  - SQLITE
-* Database: 
   - DJANGO
+* Database: 
+  - SQLITE
 
 >How to run our project?
 1. Download our code.
