@@ -18,11 +18,11 @@ Participants | Họ và Tên | MSSV | Nhiêm Vụ |
 >Tech stacks:
 
 * Front-end: 
-  - DJANGO
+  - HTML, CSS, JS
 * Back-end: 
   - SQLITE
 * Database: 
-  - HTML, CSS, JS
+  - DJANGO
 
 >How to run our project?
 1. Download our code.
