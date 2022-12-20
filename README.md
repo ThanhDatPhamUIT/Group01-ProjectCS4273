@@ -11,7 +11,7 @@ Participants | Họ và Tên | MSSV | Nhiêm Vụ |
 > Task management table: [here](https://trello.com/invite/b/s2a7YEWe/25199de52bd3549ff58b4a2d38c85dd7/nhập-mon-cnpm)
 
 
-> UI / UX prototype: [here](hs://www.figma.com/file/B67tA4LXqVC3SNUaDi4iCP/Flight-Booking?node-id=1%3A2) 
+> UI / UX prototype: [here](https://www.figma.com/file/B67tA4LXqVC3SNUaDi4iCP/Flight-Booking?node-id=1%3A2) 
 
 
 
